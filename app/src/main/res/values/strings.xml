@@ -1,3 +1,37 @@
 <resources>
-    <string name="app_name">TOPiAndroid</string>
+    <string name="app_name">TOPiDevTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Languages -->
+    <string name="javascript">Javascript</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="css">CSS</string>
+    <string name="php">PHP</string>
+    <string name="ruby">Ruby</string>
+    <string name="cpp">C++</string>
+    <string name="c">C</string>
+    <string name="shell">Shell</string>
+    <string name="csharp">C#</string>
+    <string name="objectivec">Objective-C</string>
+    <string name="r">R</string>
+    <string name="viml">VimL</string>
+    <string name="go">Go</string>
+    <string name="pearl">Pearl</string>
+    <string name="coffeescript">CoffeeScript</string>
+    <string name="tex">TeX</string>
+    <string name="swift">Swift</string>
+    <string name="scala">Scala</string>
+    <string name="ecmas_list">Ecmas List</string>
+    <string name="haskell">Haskell</string>
+    <string name="lua">Lua</string>
+    <string name="clojure">Clojure</string>
+    <string name="matlab">Matlab</string>
+    <string name="arduino">Arduino</string>
+    <string name="makefile">Makefile</string>
+    <string name="groovy">Groovy</string>
 </resources>

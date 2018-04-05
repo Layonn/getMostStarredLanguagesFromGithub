@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_javascript"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/javascript" />
+        <item
+            android:id="@+id/nav_java"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/java" />
+        <item
+            android:id="@+id/nav_python"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/python" />
+        <item
+            android:id="@+id/nav_css"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/css" />
+        <item
+            android:id="@+id/nav_php"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/php" />
+        <item
+            android:id="@+id/nav_ruby"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/ruby" />
+        <item
+            android:id="@+id/nav_cpp"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/cpp" />
+        <item
+            android:id="@+id/nav_c"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/c" />
+        <item
+            android:id="@+id/nav_shell"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/shell" />
+        <item
+            android:id="@+id/nav_csharp"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/csharp" />
+        <item
+            android:id="@+id/nav_objectivec"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/objectivec" />
+        <item
+            android:id="@+id/nav_r"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/r" />
+        <item
+            android:id="@+id/nav_viml"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/viml" />
+        <item
+            android:id="@+id/nav_go"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/go" />
+        <item
+            android:id="@+id/nav_pearl"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/pearl" />
+        <item
+            android:id="@+id/nav_coffeescript"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/coffeescript" />
+        <item
+            android:id="@+id/nav_tex"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/tex" />
+        <item
+            android:id="@+id/nav_swift"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/swift" />
+        <item
+            android:id="@+id/nav_scala"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/scala" />
+        <item
+            android:id="@+id/nav_ecmas_list"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/ecmas_list" />
+        <item
+            android:id="@+id/nav_haskell"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/haskell" />
+        <item
+            android:id="@+id/nav_lua"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/lua" />
+        <item
+            android:id="@+id/nav_clojure"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/clojure" />
+        <item
+            android:id="@+id/nav_matlab"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/matlab" />
+        <item
+            android:id="@+id/nav_arduino"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/arduino" />
+        <item
+            android:id="@+id/nav_makefile"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/makefile" />
+        <item
+            android:id="@+id/nav_groovy"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="@string/groovy" />
+    </group>
+</menu>
